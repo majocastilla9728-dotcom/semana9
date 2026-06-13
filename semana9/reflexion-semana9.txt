@@ -1,0 +1,8 @@
+La estabilidad y seguridad de un servidor son esenciales para las plataformas tecnológicas comunitarias porque garantizan
+ que la información y los servicios estén disponibles de forma confiable. Cuando un servidor funciona correctamente,
+  los usuarios pueden participar sin interrupciones y confiar en que sus datos están protegidos. La seguridad evita accesos 
+  no autorizados y protege la integridad de la información compartida. Además, un servidor estable permite 
+  que las comunidades organicen procesos participativos sin temor a fallos técnicos. Los logs y el monitoreo constante 
+  ayudan a detectar problemas a tiempo y mantener la continuidad del servicio. En conclusión, la estabilidad y seguridad
+   fortalecen la confianza, la transparencia y la colaboración dentro de las comunidades digitales.
+
